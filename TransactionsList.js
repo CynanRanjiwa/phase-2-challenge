@@ -7,9 +7,9 @@
 //     useEffect(() => {
 //         // Create sample data
 //         const sampleTransactions = [
-//             { date: '2024-04-27', description: 'Purchase 1', category: 'Food', amount: 50 },
-//             { date: '2024-04-26', description: 'Purchase 2', category: 'Clothing', amount: 30 },
-//             { date: '2024-04-25', description: 'Purchase 3', category: 'Electronics', amount: 70 },
+//             { date: '', description: '', category: '', amount: },
+//             { date: '', description: '', category: '', amount:  },
+//             { date: '', description: '', category: '', amount: },
 //         ];
 
 //         setTransactions(sampleTransactions);
